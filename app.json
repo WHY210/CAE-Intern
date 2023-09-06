@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "我要哭了",
+    "slug": "我要哭了",
+    "version": "1.0.0",
+    "privacy": "public",
+    "sdkVersion": "22.0.0",
+    "icon": ".app/assets/icon.jpeg",
+    "primaryColor": "#cccccc",
+    "orientation": "portrait",
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "我要哭了"
+}
